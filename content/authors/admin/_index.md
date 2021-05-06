@@ -6,10 +6,10 @@ title: chiu 921
 superuser: true
 
 # Role/position
-role: 耀
+role: 學習生16
 
 # Organizations/Affiliations
-organizations:學習生
+organizations:110雲端商務
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -60,5 +60,4 @@ social:
 ■WASD與方向鍵採藍色鍵帽設計。
 ■貼心可調腳架，使用方便。
 ■底盤具多個漏水孔，可有效排出不慎灑入的液體。
-■低電量指示燈，具電池弱電時提醒功能。
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
