@@ -61,7 +61,4 @@ social:
 ■貼心可調腳架，使用方便。
 ■底盤具多個漏水孔，可有效排出不慎灑入的液體。
 ■低電量指示燈，具電池弱電時提醒功能。
-
-
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
