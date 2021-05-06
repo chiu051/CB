@@ -6,10 +6,10 @@ title: chiu 921
 superuser: true
 
 # Role/position
-role: 學習生16
+role: Student16
 
 # Organizations/Affiliations
-organizations:110雲端商務
+organizations:110Cloud Business Class
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -55,9 +55,7 @@ social:
 #email: ""
 ---
 
-■按鍵輕盈按鍵，輸入輕快不費力。
-■8個多媒體按鍵(上下曲目、音量調整…等)。
-■WASD與方向鍵採藍色鍵帽設計。
-■貼心可調腳架，使用方便。
-■底盤具多個漏水孔，可有效排出不慎灑入的液體。
+1.The keys are light and the keys are light, and input is light and effortless.
+2.8 multimedia buttons (up and down tracks, volume adjustment... etc.)■按鍵輕盈按鍵，輸入輕快不費力。
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
