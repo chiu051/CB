@@ -1,17 +1,15 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: chiu 921
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 耀
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+organizations:學習生
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -57,6 +55,13 @@ social:
 #email: ""
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+■按鍵輕盈按鍵，輸入輕快不費力。
+■8個多媒體按鍵(上下曲目、音量調整…等)。
+■WASD與方向鍵採藍色鍵帽設計。
+■貼心可調腳架，使用方便。
+■底盤具多個漏水孔，可有效排出不慎灑入的液體。
+■低電量指示燈，具電池弱電時提醒功能。
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
