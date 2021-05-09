@@ -54,8 +54,4 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-
-1.The keys are light and the keys are light, and input is light and effortless.
-2.8 multimedia buttons (up and down tracks, volume adjustment... etc.)■按鍵輕盈按鍵，輸入輕快不費力。
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+可以使用許多不同的工具（不同的框架，編程語言和方法）來構建Netlify上的站點。令人難以置信的是，看到您的網站無法構建！如果您在Netlify上構建的版本因失敗消息而失敗，並且您不理解該錯誤消息，那麼您並不孤單。在這裡，您會找到一些常見的構建失敗消息以及可能的原因解決方案。如果您正在尋找有關構建調試的更多常規信息，或者對構建工作方式的詳細信息感興趣，則以下其他文章可能是一個更好的起點：
